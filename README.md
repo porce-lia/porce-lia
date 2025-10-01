@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Radhika
 - 👀 I’m interested in anything technology
-- 🌱 I’m currently learning php
+- 🌱 I’m currently interested in web dev
 - 😄 Pronouns: she/her
 
 <!---
